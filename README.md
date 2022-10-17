@@ -1,6 +1,5 @@
 ### :raising_hand_man: Bio: 
-**My name is Ivan, I am an individual validator from Ukraine. 
-24hr management & monitoring! (Grafana & Prometeus & Telegram alerts)**
+**My name is Ivan, I am an individual validator from Ukraine. 24hr management & monitoring with Grafana & Prometheus!**
 #
 ### :computer: Hardware:
 :earth_africa: **Location - [Hetzner DS](https://www.hetzner.com/dedicated-rootserver/ax101), [Contabo](https://contabo.com/en/dedicated-servers/), [Digitalocean](https://www.digitalocean.com/)  
@@ -33,10 +32,10 @@ Mail:
 - Zeeka
 #
 ### Finished testnets:
-- Evmos
-- Humanode
-- SubQuery
 - Axelar
 - Bit.Country
+- Evmos
+- Humanode
 - SSV
+- SubQuery
 - ZeitGeist
