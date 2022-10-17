@@ -14,7 +14,7 @@ GitHub:
 Twitter:
 Mail:
 #
-Active testnets:
+### Active testnets:
 - Aleo
 - IronFish
 - Kyve
@@ -32,7 +32,7 @@ Active testnets:
 - Espresso
 - Celestia
 #
-Finished testnets:
+### Finished testnets:
 - Evmos
 - Humanode
 - SubQuery
