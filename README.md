@@ -8,10 +8,9 @@
 :black_small_square: Bandwidth - 1 Gbit/s-Port**
 
 ### :speech_balloon: Contacts:
-Discord:
-GitHub:
-Twitter:
-Mail:
+Discord: ivan#5799
+GitHub: https://github.com/nearivan
+Twitter: https://twitter.com/near_rv
 #
 ### Active testnets:
 - Aleo
