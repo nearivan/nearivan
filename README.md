@@ -16,21 +16,21 @@ Mail:
 #
 ### Active testnets:
 - Aleo
+- Bundlr
+- Celestia
+- Espresso
+- Gear
 - IronFish
 - Kyve
-- Obol
-- Bundlr
-- Zeeka
-- Transformers (TSFC)
-- SubSpace
-- StarkNet
-- Penumbra
-- Minima
-- Masa Finance
 - Massa
-- Gear
-- Espresso
-- Celestia
+- Masa Finance
+- Minima
+- Obol
+- Penumbra
+- StarkNet
+- SubSpace
+- Transformers (TSFC)
+- Zeeka
 #
 ### Finished testnets:
 - Evmos
