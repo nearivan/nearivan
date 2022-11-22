@@ -9,7 +9,6 @@
 #
 ### :speech_balloon: Contacts:
 :black_small_square: Discord: ivan#5799
-:black_small_square: GitHub: https://github.com/nearivan
 :black_small_square: Twitter: https://twitter.com/near_rv
 #
 ### Active testnets:
