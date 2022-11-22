@@ -6,7 +6,7 @@
 :black_small_square: Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)  
 :black_small_square: Memory - 6.8 TB NVMe  
 :black_small_square: Bandwidth - 1 Gbit/s-Port**
-
+#
 ### :speech_balloon: Contacts:
 :black_small_square: Discord: ivan#5799
 :black_small_square: GitHub: https://github.com/nearivan
