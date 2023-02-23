@@ -1,8 +1,9 @@
 ### :raising_hand_man: Bio: 
-**My name is Ivan, I am an individual validator from Ukraine. 24hr management & monitoring with Grafana & Prometheus!**
+**My name is Ivan, I am an individual validator from Ukraine. 24/7 management & monitoring with Grafana & Prometheus!**
+**HotDR protected**
 #
 ### :computer: Hardware:
-:earth_africa: **Location - [Hetzner](https://www.hetzner.com/dedicated-rootserver/ax101)
+:earth_africa: **Location - [Hetzner](https://www.hetzner.com/dedicated-rootserver/ax101)**
 :black_small_square: Spec: AMD EPYC 7502P, 32 CPU, 128 GB DDR4 ECC, 7.68 TB NVMe, 1 Gbit/s-Port
 #
 ### :speech_balloon: Contacts:
