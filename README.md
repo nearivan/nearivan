@@ -22,7 +22,7 @@
 #
 
 ### Active testnets:
-
+- Taiko
 - Shardeum
 - Bundlr
 - Celestia
