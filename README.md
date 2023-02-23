@@ -2,10 +2,8 @@
 **My name is Ivan, I am an individual validator from Ukraine. 24hr management & monitoring with Grafana & Prometheus!**
 #
 ### :computer: Hardware:
-:earth_africa: **Location - [Hetzner DS](https://www.hetzner.com/dedicated-rootserver/ax101), [Contabo](https://contabo.com/en/dedicated-servers/), [Digitalocean](https://www.digitalocean.com/)  
-:black_small_square: Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)  
-:black_small_square: Memory - 6.8 TB NVMe  
-:black_small_square: Bandwidth - 1 Gbit/s-Port**
+:earth_africa: **Location - [Hetzner](https://www.hetzner.com/dedicated-rootserver/ax101)
+:black_small_square: Spec: AMD EPYC 7502P, 32 CPU, 128 GB DDR4 ECC, 7.68 TB NVMe, 1 Gbit/s-Port
 #
 ### :speech_balloon: Contacts:
 :black_small_square: Discord: ivan#5799
