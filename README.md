@@ -1,5 +1,8 @@
 ### :raising_hand_man: Bio: 
-**My name is Ivan, I am an individual validator from Ukraine. 24/7 management & monitoring with Grafana & Prometheus!**
+**My name is Ivan, I am an individual validator from Ukraine.**
+
+24/7 management & monitoring with Grafana & Prometheus!
+
 **HotDR protected**
 #
 
