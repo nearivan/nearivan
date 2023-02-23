@@ -14,7 +14,7 @@
 ### :speech_balloon: Contacts:
 :black_small_square: Discord: ivan#5799
 
-:black_small_square: Twitter: https://twitter.com/near_rv
+:black_small_square: Twitter: [@near_rv](https://twitter.com/near_rv)
 #
 
 ### Active validating:
